@@ -1,9 +1,9 @@
 # Site wide configuration
 
-title:            Ocu Kampar
+title:            pita irul sayekti
 locale:           en_US
 #url:              http://localhost:4000
-url:              http://kampar.github.io
+url:              http://pitairulsayekti.github.io
 
 
 # Jekyll configuration
@@ -27,15 +27,15 @@ kramdown:
 
 # Site owner
 owner:
-  name: Muhammad Jazman
+  name: Pita Irul Sayekti
   avatar: bio-photo.jpg
   bio: "Describe your self."
   email: 
   disqus-shortname: 
-  twitter: jazma101 #username
-  facebook: deactivate.py #username
+  twitter: pita_iruL #username
+  facebook: pita irul sayekti #username
   google:
-    plus: kampar #username
+    plus: pita irul #username
     analytics: 
     verify: 
     ad-client: 
