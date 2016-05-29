@@ -29,7 +29,14 @@ kramdown:
 owner:
   name: Pita Irul Sayekti
   avatar: bio-photo.jpg
-  bio: "Describe your self."
+  bio:
+  Nama : pita Irul Sayekti
+  TTL : Sarigaluh, 10 Juni 1995
+  Alamat : Jl. Perum Villa Sentosa
+  Kelas : SIF A
+  Jurusan : http://sif.uin-suska.ac.id/
+  Fakultas : http://fst.uin-suska.ac.id/
+  Universitas : http://uin-suska.ac.id/
   email: 
   disqus-shortname: 
   twitter: pita_iruL #username
