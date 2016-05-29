@@ -12,7 +12,7 @@ image:
 
 
 
-## Tentang Biodata Saya:
+Tentang Biodata Saya:
 
 * Nama : Pita Irul Sayekti.
 * TTL : Sarigaluh, 10 Juni 1995. 
