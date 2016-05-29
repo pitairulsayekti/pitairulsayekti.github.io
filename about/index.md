@@ -1,9 +1,9 @@
 ---
 layout: page
 title: About Me
-Tentang Biodata Saya:
+[Tentang Biodata Saya:]
 
-* Nama : Pita Irul Sayekti.
+[* Nama : Pita Irul Sayekti.]
 * TTL : Sarigaluh, 10 Juni 1995. 
 * Alamat : Jl. Perum Villa Sentosa.
 * Kelas : SIF A angkatan 13.
